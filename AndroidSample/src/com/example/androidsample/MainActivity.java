@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
 		
 		Log.v("Message","Message");
 		
+		Log.v("Jack","This is android application");
+		
 	}
 
 	@Override
